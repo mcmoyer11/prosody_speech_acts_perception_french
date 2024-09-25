@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2458775510204134 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "utterance" 
+        xmin = 0 
+        xmax = 1.2458775510204134 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999432 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09999999999999432 
+            xmax = 1.145877551020419 
+            text = "p14_AQR_Q_02_trunk" 
+        intervals [3]:
+            xmin = 1.145877551020419 
+            xmax = 1.2458775510204134 
+            text = "" 
