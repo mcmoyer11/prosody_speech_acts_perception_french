@@ -1,5 +1,5 @@
 
-var path = 'https://raw.githubusercontent.com/mcmoyer11/perception_prosody_speech_acts_french/main/files/list_A_paras.csv'
+var path = 'https://raw.githubusercontent.com/mcmoyer11/prosody_speech_acts_perception_french/refs/heads/main/experiments/01_perception_textonly/files/list_A_paras.csv'
 // var path = '../txt/list_A_paras.csv'
 
 console.log(path);
